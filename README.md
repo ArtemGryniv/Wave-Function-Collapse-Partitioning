@@ -6,10 +6,10 @@ This repository contains the code used in the creation and analysis of the **Wav
 
 All algorithms were implemented in the scientific computing language **Julia**. The repository includes four Julia files, each containing a different algorithm:
 
-- **WFC-P on weighted graphs** – [`Weighted WFC-P.jl`](path-to-file)
-- **WFC-P on unweighted graphs** – [`Unweighted WFC-P.jl`](path-to-file)
-- **Local Search on unweighted graphs** – [`Local Search MC.jl`](path-to-file)
-- **Greedy algorithm on unweighted graphs** – [`Greedy Algorithm MC.jl`](path-to-file)
+- **WFC-P on weighted graphs** – [`Weighted WFC-P.jl`](https://github.com/ArtemGryniv/Wave-Function-Collapse-Partitioning/blob/322002d73a3dd7b12f5f0102ec4251224bf5983e/Weighted%20WFC-P.jl)
+- **WFC-P on unweighted graphs** – [`Unweighted WFC-P.jl`](https://github.com/ArtemGryniv/Wave-Function-Collapse-Partitioning/blob/322002d73a3dd7b12f5f0102ec4251224bf5983e/Unweighted%20WFC-P.jl)
+- **Local Search on unweighted graphs** – [`Local Search MC.jl`](https://github.com/ArtemGryniv/Wave-Function-Collapse-Partitioning/blob/322002d73a3dd7b12f5f0102ec4251224bf5983e/Local%20Search%20MC.jl)
+- **Greedy algorithm on unweighted graphs** – [`Greedy Algorithm MC.jl`](https://github.com/ArtemGryniv/Wave-Function-Collapse-Partitioning/blob/322002d73a3dd7b12f5f0102ec4251224bf5983e/Greedy%20Algorithm%20MC.jl)
 
 ## Graph Generation
 
