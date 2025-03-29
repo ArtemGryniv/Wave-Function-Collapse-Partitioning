@@ -43,7 +43,8 @@ All test graphs are stored as `.txt` files in the following folders:
 
 ## Contribute & Connect
 
-I encourage further testing of **WFC-P** and benchmarking it against your own or other **Maximum Cut** algorithms. Additionally, if you're interested in combinatorial optimization, feel free to drawn upon **WFC-P** inspiration.
+I encourage further testing of **WFC-P** and benchmarking it against your own or other **Maximum Cut** algorithms. Additionally, if you're interested in combinatorial optimization, feel free to drawn upon **WFC-P** for inspiration.
 
 If you have any questions or would like to share your findings, I'd love to hear from you!
+
 📧 **Email:** [artem.gryniv@icloud.com](mailto:artem.gryniv@icloud.com)
