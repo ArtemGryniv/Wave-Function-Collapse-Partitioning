@@ -34,7 +34,7 @@ All test graphs are stored as `.txt` files in the following folders:
   - [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/XML-TSPLIB/instances/)
   - [BQP](http://bqp.cs.uni-bonn.de/library/html/instances.html)
 
-  If these graphs were not available as `.txt` files, they were downloaded as `.xml` files and converted using **TSP Converting.py**. This Python script converts `.xml` files into `.txt` format as:
+  If these graphs were not available as `.txt` files, they were downloaded as `.xml` files and converted using [`TSP Converting.py`](https://github.com/ArtemGryniv/Wave-Function-Collapse-Partitioning/blob/main/TSP%20Converting.py). This Python script converts `.xml` files into `.txt` format as:
   ```
   vertexOne vertexTwo edgeWeight
   ```
