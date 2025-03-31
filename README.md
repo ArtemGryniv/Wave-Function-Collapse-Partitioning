@@ -1,6 +1,6 @@
 # Wave Function Collapse Partitioning (WFC-P) for Maximum Cut
 
-This repository contains the code used in the creation and analysis of the **Wave Function Collapse Partitioning (WFC-P)** metaheuristic for the **Maximum Cut** problem. The full research paper by Artem Gryniv and David Perkins can be found [here](https://github.com/ArtemGryniv/Wave-Function-Collapse-Partitioning/blob/49e5aa612dac39a172620c0e259ea3a16026265b/MaxCutPaper.pdf)
+This repository contains the code used in the creation and analysis of the **Wave Function Collapse Partitioning (WFC-P)** metaheuristic for the **Maximum Cut** problem. The full research paper by Artem Gryniv and David Perkins can be found [here](https://github.com/ArtemGryniv/Wave-Function-Collapse-Partitioning/blob/49e5aa612dac39a172620c0e259ea3a16026265b/MaxCutPaper.pdf). The research is currently being expanded upon by students and professors and Colgate University. 
 
 ## Algorithms
 
